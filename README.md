@@ -1,2 +1,2 @@
 # CajadePandora
-# Esta es una primera demostraciòn de lo qu estoy aprendiendo a hacer con Python. 
+# Esta es una primera demostraciòn de lo que estoy aprendiendo a hacer en Python. 
