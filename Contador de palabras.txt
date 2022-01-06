@@ -1,0 +1,5 @@
+pensamiento = input("¿En que estas pensando? ")
+
+pensamiento_num = len(pensamiento)
+
+print(f"Gracias por mostrarme tu pensamiento resumido en {pensamiento_num} letras")
